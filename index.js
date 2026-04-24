@@ -9,7 +9,7 @@ function addBurger() {
 }
 
 // Step 3: Variable Declaration and Scope
-if (true) {
+if(true) {
   const anotherNewBurger = 'Maple Bacon Burger';
   burgers.push(anotherNewBurger);
 
